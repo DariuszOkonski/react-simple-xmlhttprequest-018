@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+  border: 2px solid black;
+  max-width: 600px;
+  margin: 5px auto;
+  background-color: #ccc;
+}
+
+button {
+  display: block;
+  margin: 5px auto;
+  width: 150px;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+p span {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  width: 90%;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px auto;
+  background-color: white;
+}
